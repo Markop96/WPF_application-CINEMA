@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\Bioskop\obj\Release\Bioskop.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Bioskop\obj\Release\Forme\formaFilm.g.cs
+C:\Users\PC\source\repos\Bioskop\obj\Release\Forme\formaKorisnik.g.cs
+C:\Users\PC\source\repos\Bioskop\obj\Release\Forme\formaPlacanje.g.cs
+C:\Users\PC\source\repos\Bioskop\obj\Release\Forme\formaProjekcija.g.cs
+C:\Users\PC\source\repos\Bioskop\obj\Release\Forme\formaRecenzija.g.cs
+C:\Users\PC\source\repos\Bioskop\obj\Release\Forme\formaRezervacija.g.cs
+C:\Users\PC\source\repos\Bioskop\obj\Release\Forme\formaZaposleni.g.cs
+C:\Users\PC\source\repos\Bioskop\obj\Release\MainWindow.g.cs
+C:\Users\PC\source\repos\Bioskop\obj\Release\App.g.cs
+C:\Users\PC\source\repos\Bioskop\obj\Release\Bioskop_MarkupCompile.cache
+C:\Users\PC\source\repos\Bioskop\obj\Release\Bioskop_MarkupCompile.lref
