@@ -1,0 +1,62 @@
+﻿<Window x:Class="Bioskop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bioskop"
+        mc:Ignorable="d"
+        Title="Pocetna stranica" Height="500" Width="800">
+    <Grid Margin="0,0,0,0">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/pozadina.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <DataGrid x:Name="dataGridCentralni" HorizontalAlignment="Center" VerticalAlignment="Top" Height="auto" MaxHeight="150" Width="Auto" IsReadOnly="True" ColumnWidth="auto" MinColumnWidth="80"
+          RowBackground="#FF3780DE" AlternatingRowBackground="#88d4fc" CanUserAddRows="False" SelectionMode="Single" Background="#FFFF0046" Foreground="Black" OpacityMask="#FF090909" Margin="0,200,0,0" Opacity="0.9" FontFamily="Franklin Gothic Heavy" >
+
+                <DataGrid.Resources>
+                <Style BasedOn="{StaticResource {x:Type DataGridColumnHeader}}" TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FFFD005E" />
+                    <Setter Property="FontFamily" Value="ARIAL BLACK" />
+                    <Setter Property="Foreground" Value="White" />
+                    <Setter Property="HorizontalAlignment" Value="Center" />
+                </Style>
+                <Style TargetType="{x:Type DataGridCell}">
+                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                </Style>
+            </DataGrid.Resources>
+
+        </DataGrid>
+
+        <StackPanel HorizontalAlignment="Center" Height="35" Margin="0,135,0,0" VerticalAlignment="Top" Width="580" Orientation="Horizontal">
+            <Button x:Name="btnFilm" Click="btnFilm_Click" Content="FILMOVI" Width="80" Background="#FF0152BC" Foreground="White" FontWeight="Bold" FontFamily="Segoe UI Black" BorderBrush="{x:Null}" FontSize="10"/>
+
+            <Button x:Name="btnProjekcija" Click="btnProjekcija_Click" Content="PROJEKCIJE" Width="80" Background="#FF0152BC" Foreground="White" FontWeight="Bold" FontFamily="Segoe UI Black" BorderBrush="{x:Null}" FontSize="10"/>
+
+            <Button x:Name="btnPlacanje" Click="btnPlacanje_Click" Content="PLACANJA" Width="80" Background="#FF0152BC" Foreground="White" FontWeight="Bold" FontFamily="Segoe UI Black" BorderBrush="{x:Null}" FontSize="10"/>
+
+            <Button x:Name="btnRezervacija" Click="btn_ClickRezervacija" Content="REZERVACIJE" Width="100" Background="#FF0152BC" Foreground="White" FontWeight="Bold" FontFamily="Segoe UI Black" BorderBrush="{x:Null}" FontSize="10"/>
+
+            <Button x:Name="btnKorisnik" Click="btnKorisnik_Click" Content="KORISNICI" Width="80" Background="#FF0152BC" Foreground="White" FontWeight="Bold" FontFamily="Segoe UI Black" BorderBrush="{x:Null}" FontSize="10"/>
+
+            <Button x:Name="btnZaposleni" Click="btnZaposleni_Click" Content="ZAPOSLENI" Width="80" Background="#FF0152BC" Foreground="White" FontWeight="Bold" FontFamily="Segoe UI Black" BorderBrush="{x:Null}" FontSize="10"/>
+
+            <Button x:Name="btnRecenzija" Click="btnRecenzija_Click" Content="RECENZIJE" Width="80" Background="#FF0152BC" Foreground="White" FontWeight="Bold" FontFamily="Segoe UI Black" BorderBrush="{x:Null}" FontSize="10"/>
+
+        </StackPanel>
+
+        <Image HorizontalAlignment="Center" Height="112" VerticalAlignment="Top" Width="304" Source="/Images/logoEONIS.png" Margin="0,40,0,0"/>
+
+        <StackPanel HorizontalAlignment="Center" Margin="0,0,0,50" VerticalAlignment="Bottom" Width="320" Orientation="Horizontal">
+            <Button x:Name="btnDodaj" Click="DodajNovog_Click" Content="DODAJ" Width="100" Height="30" Margin="0,0,10,0" Background="#FF34FF00" BorderBrush="Black" FontWeight="Bold" VerticalAlignment="Bottom" OpacityMask="Black"/>
+            <Button x:Name="btnIzmeni" Click="IzmeniPostojeceg_Click" Content="IZMENI" Width="100" Height="30" Margin="0,0,10,0" FontWeight="Bold" Background="White" BorderBrush="Black" VerticalAlignment="Bottom" OpacityMask="Black"/>
+            <Button x:Name="btnObrisi" Click="ObrisiPostojeceg_Click" Content="OBRIŠI" Width="100" Height="30" FontWeight="Bold" Background="Red" BorderBrush="Red" VerticalAlignment="Bottom" OpacityMask="Black" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+
+
+
+
+
+    </Grid>
+</Window>

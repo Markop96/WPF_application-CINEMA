@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Bioskop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\forme\\formaprojekcija.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:forme\\formaprojekcija.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|c:\\users\\pc\\source\\repos\\bioskop\\forme\\formarezervacija.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:forme\\formarezervacija.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\forme\\formarecenzija.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:forme\\formarecenzija.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\forme\\formaplacanje.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:forme\\formaplacanje.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\forme\\formarecenzija.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:forme\\formarecenzija.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\forme\\formaprojekcija.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:forme\\formaprojekcija.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\forme\\formafilm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:forme\\formafilm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\forme\\formaplacanje.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:forme\\formaplacanje.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\forme\\formakorisnik.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:forme\\formakorisnik.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\forme\\formakorisnik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:forme\\formakorisnik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\forme\\formafilm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:forme\\formafilm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|C:\\Users\\PC\\source\\repos\\Bioskop\\konekcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F66A2D-CC2C-42D7-BC5A-2D8EB6118175}|Bioskop.csproj|solutionrelative:konekcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formaRecenzija.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaRecenzija.xaml.cs",
+              "RelativeDocumentMoniker": "Forme\\formaRecenzija.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaRecenzija.xaml.cs",
+              "RelativeToolTip": "Forme\\formaRecenzija.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwBsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:49:46.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formaProjekcija.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaProjekcija.xaml.cs",
+              "RelativeDocumentMoniker": "Forme\\formaProjekcija.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaProjekcija.xaml.cs",
+              "RelativeToolTip": "Forme\\formaProjekcija.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:49:36.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formaProjekcija.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaProjekcija.xaml",
+              "RelativeDocumentMoniker": "Forme\\formaProjekcija.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaProjekcija.xaml",
+              "RelativeToolTip": "Forme\\formaProjekcija.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T13:49:33.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formaPlacanje.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaPlacanje.xaml.cs",
+              "RelativeDocumentMoniker": "Forme\\formaPlacanje.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaPlacanje.xaml.cs",
+              "RelativeToolTip": "Forme\\formaPlacanje.xaml.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAmwFcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:06:14.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formaRezervacija.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaRezervacija.xaml.cs",
+              "RelativeDocumentMoniker": "Forme\\formaRezervacija.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaRezervacija.xaml.cs",
+              "RelativeToolTip": "Forme\\formaRezervacija.xaml.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAowGMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:22:26.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formaRecenzija.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaRecenzija.xaml",
+              "RelativeDocumentMoniker": "Forme\\formaRecenzija.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaRecenzija.xaml",
+              "RelativeToolTip": "Forme\\formaRecenzija.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T13:49:46.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "formaPlacanje.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaPlacanje.xaml",
+              "RelativeDocumentMoniker": "Forme\\formaPlacanje.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaPlacanje.xaml",
+              "RelativeToolTip": "Forme\\formaPlacanje.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T13:48:40.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "formaKorisnik.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaKorisnik.xaml.cs",
+              "RelativeDocumentMoniker": "Forme\\formaKorisnik.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaKorisnik.xaml.cs",
+              "RelativeToolTip": "Forme\\formaKorisnik.xaml.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:48:36.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "formaKorisnik.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaKorisnik.xaml",
+              "RelativeDocumentMoniker": "Forme\\formaKorisnik.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaKorisnik.xaml",
+              "RelativeToolTip": "Forme\\formaKorisnik.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T13:48:34.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formaFilm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaFilm.xaml.cs",
+              "RelativeDocumentMoniker": "Forme\\formaFilm.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaFilm.xaml.cs",
+              "RelativeToolTip": "Forme\\formaFilm.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:48:24.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "formaFilm.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaFilm.xaml",
+              "RelativeDocumentMoniker": "Forme\\formaFilm.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\Forme\\formaFilm.xaml",
+              "RelativeToolTip": "Forme\\formaFilm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T13:48:20.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Konekcija.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\Konekcija.cs",
+              "RelativeDocumentMoniker": "Konekcija.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\Konekcija.cs",
+              "RelativeToolTip": "Konekcija.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:27:08.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T16:42:07.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Bioskop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Bioskop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:53:49.119Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
