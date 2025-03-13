@@ -1,7 +1,8 @@
 WPF desktop aplikacija kreirana za automatizaciju polovanja bioskopa fitivnog imena M-plexx.
 Kompletan opis projekta moze se naci u okviru dokumentacije!
 
-DESKTOP IKONICA APLIKACIJE NAKON SPROVEDENOG SETUP-A
+DESKTOP IKONICA APLIKACIJE NAKON SPROVEDENOG SETUP-A:
+
 ![image](https://github.com/user-attachments/assets/96fa2f81-2b5a-4935-b9d5-aa5f6d74f80b)
 
 Neke od slika, sve slike se mogu videti u dokumentaciji.
