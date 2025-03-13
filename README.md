@@ -12,5 +12,7 @@ Neke od slika, sve slike se mogu videti u dokumentaciji.
 ![image](https://github.com/user-attachments/assets/6133cebf-01e2-4905-ac3a-3519206c2e63)
 ![image](https://github.com/user-attachments/assets/97160065-b789-4c8f-b5ab-98ad0dad38a6)
 
+KOMPLETNA DOKUMENTACIJA:
 
 [EONIS dokumentacija.pdf](https://github.com/user-attachments/files/19234704/EONIS.dokumentacija.pdf)
+
